@@ -12,4 +12,4 @@ aptとpip3が通れば大丈夫なはず
 * pcapy
 * geoip2
 
-dl_geoip2.sh で必要なipのデータベースは確保できる。
+dl_geoip2.sh で必要なipのデータベースは取得できる。
